@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Ahmed
-- 👀 I’m interested in technology, innovation and providing solutions of real world problems faced by people.
-- 🌱 I’m currently learning .NET desktop app development,ASP.NET, Mobile Application Development , Web Development, UI/UX designing.
+- 👀 I’m interested in technology, innovation and using AI for providing solutions of real world problems faced by people.
+- 🌱 I’m currently learning .NET desktop app development,ASP.NET, Mobile Application Development , Web Development, UI/UX designing, AI.
 - 💞️ I have some experience in Native Mobile Application Development, Front end Web Development, .NET desktop app and created some basic to intermediate level projects.
 - 📫 Contact me : ahmed.uaar.735@gmail.com, ahmedtownshipnew@gmail.com
 
